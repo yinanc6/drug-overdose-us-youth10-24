@@ -29,4 +29,5 @@ Available from: https://wonder.cdc.gov/
 
 CDC WONDER data are in the public domain as a U.S. Government work.  
 Users can download the latest data directly from the CDC WONDER portal.  
-This repository does not host the full dataset; only sample data are provided for demonstration purposes.
+This repository does not include the dataset due to size and update frequency. You can download the data directly from CDC WONDER. After downloading, save the file in the `data/` folder (create it if it doesn't exist),
+and update the file path in `app.R` if necessary.
